@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anıl%20Yıldırım&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SpAC3%20·%20Frontend%20%26%20Bot%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Bot+Developer;React+%26+Next.js+Enthusiast;TypeScript+%2F+JavaScript)](https://git.io/typing-svg)
 
@@ -113,6 +113,6 @@ const anil = {
 
 <img src="https://komarev.com/ghpvc/?username=Anilyldrmm&style=flat-square&color=6E56CF&label=Profile+Views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
 
 </div>
