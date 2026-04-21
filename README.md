@@ -1,11 +1,17 @@
 <div align="center">
 
-# Hey, I'm Anıl 👋
+# Anıl Yıldırım · SpAC3
 
 **Bot Developer · TypeScript · JavaScript**
 
 I build bots and automation tools for Discord & Kick platforms.
-Currently working on projects I can't fully show — but the commits speak for themselves.
+Most of my active work lives in private repositories.
+
+[![Website](https://img.shields.io/badge/Website-anilyldrm.com-black?style=flat-square&logo=google-chrome&logoColor=white)](https://www.anilyldrm.com)
+[![YouTube](https://img.shields.io/badge/YouTube-SpAC3__-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SpAC3_)
+[![Instagram](https://img.shields.io/badge/Instagram-anilyldrmm__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/anilyldrmm_/)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/AMGuCHx9TJ)
+[![Steam](https://img.shields.io/badge/Steam-0SpAC3-1b2838?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/0SpAC3/)
 
 </div>
 
@@ -30,8 +36,6 @@ Currently working on projects I can't fully show — but the commits speak for t
 | 💬 **kick-chat-bot** | Kick chat otomasyon botu | JavaScript |
 | ✨ **shooting-star-background** | CSS/JS kayan yıldız arka plan efekti | JavaScript |
 
-> Most of my active work is in private repositories.
-
 ---
 
 ## 📊 GitHub Stats
@@ -47,10 +51,6 @@ Currently working on projects I can't fully show — but the commits speak for t
 </div>
 
 ---
-
-## 📬 Contact
-
-[![GitHub](https://img.shields.io/badge/GitHub-Anilyldrmm-181717?style=flat-square&logo=github)](https://github.com/Anilyldrmm)
 
 <div align="center">
 <sub>Profile views: <img src="https://komarev.com/ghpvc/?username=Anilyldrmm&style=flat-square&color=blue" /></sub>
