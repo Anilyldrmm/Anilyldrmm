@@ -29,7 +29,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🌐 **anilyldrm.com** | Kişisel website | Next.js |
+| 🌐 **anilyldrm.com** | Kişisel website | HTML · CSS · JS |
 | 🤖 **kick-discord-bot** | Kick entegrasyonlu Discord botu | TypeScript |
 | 💬 **kick-chat-bot** | Kick chat otomasyon botu | JavaScript |
 | ✨ **shooting-star-background** | Kayan yıldız arka plan efekti | JavaScript |
