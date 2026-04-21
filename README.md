@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Bot+Developer;React+%26+Next.js+Enthusiast;TypeScript+%2F+JavaScript)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/🌐%20anilyldrm.com-000000?style=for-the-badge)](https://www.anilyldrm.com)
+[![Website](https://img.shields.io/badge/🌐%20Website-000000?style=for-the-badge)](https://www.anilyldrm.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/AMGuCHx9TJ)
 [![Steam](https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/0SpAC3/)
 
