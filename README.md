@@ -73,23 +73,22 @@ const anil = {
   </tr>
   <tr>
     <td width="50%">
-      <h3>💬 kick-chat-bot</h3>
-      <p>Kick chat platformu için otomasyon botu. Moderasyon ve etkileşim komutları.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <h3>🛡️ LunaProxy</h3>
+      <p>Windows için GoodbyeDPI tabanlı DPI Bypass Proxy. PC ve ağdaki tüm cihazlar için tek tıkla engel aşma.</p>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/Anilyldrmm/LunaProxy">→ Repo</a>
+    </td>
+    <td width="50%">
+      <h3>🎯 valo-store-bot</h3>
+      <p>Valorant Store Discord botu. Günlük mağaza, wishlist takibi ve bildirim sistemi.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
       <br/><br/>
       <code>Private Repository</code>
     </td>
-    <td width="50%">
-      <h3>✨ shooting-star-background</h3>
-      <p>Saf JavaScript ile yazılmış kayan yıldız canvas animasyonu.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <br/><br/>
-      <a href="https://github.com/Anilyldrmm/shooting-star-background">→ Repo</a>
-    </td>
   </tr>
 </table>
-
 ---
 
 ## 📊 GitHub İstatistikleri
