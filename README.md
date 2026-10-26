@@ -1,117 +1,35 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Anıl Yıldırım — software developer" width="100%">
+</picture>
 
+I build the tools I want to use myself: Windows desktop apps, Discord bots and small web apps.
+Most of my work is in TypeScript, Go, Python and C#.
 
+[Website](https://anilyldrm.com) · [Discord](https://discord.com/invite/AMGuCHx9TJ)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Bot+Developer;React+%26+Next.js+Enthusiast;TypeScript+%2F+JavaScript)](https://git.io/typing-svg)
+### Selected work
 
-[![Website](https://img.shields.io/badge/🌐%20Website-000000?style=for-the-badge)](https://www.anilyldrm.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/AMGuCHx9TJ)
-[![Steam](https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/0SpAC3/)
+| Project | What it does | Stack | |
+| --- | --- | --- | --- |
+| **Nightwatch** | Watches Twitch drop campaigns and claims the rewards for you. Priority shelf, campaign browser, inventory, tray mode. | C# | Private |
+| **[LunaProxy](https://github.com/Anilyldrmm/LunaProxy)** | One-click DPI bypass proxy for Windows, for the PC and every device on the network. Built on GoodbyeDPI. | Go | [Download](https://github.com/Anilyldrmm/LunaProxy/releases/latest) |
+| **[SpAC3Deck](https://github.com/Anilyldrmm/SpAC3Deck)** | Stream Deck–style control panel. Control Discord, Voicemeeter, Steam and hotkeys from your phone over LAN. | Python · JS | [Download](https://github.com/Anilyldrmm/SpAC3Deck/releases/latest) |
+| **Rafta** | Cosmetics decision assistant. Search or scan a barcode and get reviews, social videos and prices on one page. Installable PWA. | JS · Supabase | Private |
+| **LoL Coach** | Reads your live League of Legends match through the Riot API and suggests items and runes against the enemy team. Discord bot and web UI. | TypeScript | Private |
+| **Tezkere** | Military service countdown with a shared journal, photo archive and letters that stay locked until their date. | React · Neon · Vercel | Private |
 
-</div>
+### Also
 
----
+- **[claude-starter-kit](https://github.com/Anilyldrmm/claude-starter-kit)**: ready-made Claude Code setup with skills, agents, plugins and MCP config.
+- **[yt-indirici](https://github.com/Anilyldrmm/yt-indirici)**: Chrome/Edge extension that downloads video or audio from about 1,800 sites through yt-dlp.
+- **Discord Log Bot**: logs voice, message, moderation and role events to a channel and SQLite, with an owner-only web panel. *Private*
+- **Valorant Store Bot**: daily store, wishlist alerts and notifications on Discord. *Private*
+- **instaunfollower**: Discord bot that tells you when someone unfollows you on Instagram. *Private*
 
-## 👤 Hakkımda
+### Stack
 
-```ts
-const anil = {
-  alias:     "SpAC3",
-  role:      ["Frontend Developer", "Bot Developer"],
-  stack:     ["React", "Next.js", "TypeScript", "JavaScript", "Node.js"],
-  focus:     "Kick & Discord bot geliştirme + web projeleri",
-  website:   "anilyldrm.com",
-  location:  "Turkey 🇹🇷",
-};
-```
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-### Backend & Bot
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-## 🚀 Projeler
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌐 anilyldrm.com</h3>
-      <p>Kişisel portfolio & link sayfası. Sosyal medya, kanallar ve bağlantılar.</p>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <br/><br/>
-      <a href="https://www.anilyldrm.com">→ anilyldrm.com</a>
-    </td>
-    <td width="50%">
-      <h3>🤖 kick-discord-bot</h3>
-      <p>Kick platform entegrasyonlu Discord botu. Gelişmiş otomasyon ve komut sistemi.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-      <br/><br/>
-      <code>Private Repository</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🛡️ LunaProxy</h3>
-      <p>Windows için GoodbyeDPI tabanlı DPI Bypass Proxy. PC ve ağdaki tüm cihazlar için tek tıkla engel aşma.</p>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/Anilyldrmm/LunaProxy">→ Repo</a>
-    </td>
-    <td width="50%">
-      <h3>🎯 valo-store-bot</h3>
-      <p>Valorant Store Discord botu. Günlük mağaza, wishlist takibi ve bildirim sistemi.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-      <br/><br/>
-      <code>Private Repository</code>
-    </td>
-  </tr>
-</table>
----
-
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anilyldrmm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anilyldrmm&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=Anilyldrmm&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="600"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anilyldrmm&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-**Profilimi ziyaret ettiğin için teşekkürler.**
-
-<img src="https://komarev.com/ghpvc/?username=Anilyldrmm&style=flat-square&color=6E56CF&label=Profile+Views"/>
-
-
-
-</div>
+**Languages** TypeScript, JavaScript, Go, Python, C#<br>
+**Web** React, Next.js, Vite, Node.js<br>
+**Data** PostgreSQL, Supabase, SQLite<br>
+**Ship** Vercel, Docker, GitHub Actions

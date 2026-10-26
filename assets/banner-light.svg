@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Anıl Yıldırım — software developer">
+  <style>
+    text { font-family: Geist, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono, .mono text { font-family: "Geist Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  </style>
+  <rect width="1280" height="320" fill="#ffffff"/>
+  <g stroke="#ebebeb" stroke-width="1" fill="none">
+    <rect x="40.5" y="40.5" width="1199" height="239"/>
+    <line x1="40" y1="200.5" x2="1240" y2="200.5"/>
+    <line x1="880.5" y1="40" x2="880.5" y2="280"/>
+  </g>
+  <g stroke="#a1a1a1" stroke-width="1">
+    <path d="M40.5 32v17M32 40.5h17"/>
+    <path d="M1239.5 32v17M1231 40.5h17"/>
+    <path d="M40.5 271v17M32 279.5h17"/>
+    <path d="M1239.5 271v17M1231 279.5h17"/>
+    <path d="M880.5 192v17M872 200.5h17"/>
+  </g>
+  <text x="80" y="104" class="mono" font-size="14" fill="#888888" letter-spacing="1">SPAC3 — TURKEY</text>
+  <text x="78" y="160" font-size="56" font-weight="600" fill="#171717" letter-spacing="-2.4">Anıl Yıldırım</text>
+  <text x="80" y="246" font-size="20" fill="#4d4d4d">Software developer. Desktop apps, Discord bots and web.</text>
+  <g class="mono" font-size="14" fill="#888888">
+    <text x="920" y="104">TypeScript · Go</text>
+    <text x="920" y="132">Python · C#</text>
+    <text x="920" y="160">React · Node.js</text>
+  </g>
+  <text x="920" y="246" class="mono" font-size="14" fill="#171717">anilyldrm.com</text>
+</svg>
