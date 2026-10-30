@@ -17,10 +17,10 @@ Most of my work is in TypeScript, Go, Python and C#.
 | **[LunaProxy](https://github.com/Anilyldrmm/LunaProxy)** | One-click DPI bypass proxy for Windows, for the PC and every device on the network. Built on GoodbyeDPI. | Go | [Download](https://github.com/Anilyldrmm/LunaProxy/releases/latest) |
 | **Discord Log Bot** | Logs voice, message, moderation and role events to a channel and SQLite. Owner-only web panel behind Discord OAuth. | Node.js · SQLite | Private |
 | **[SpAC3Deck](https://github.com/Anilyldrmm/SpAC3Deck)** | Stream Deck–style control panel. Control Discord, Voicemeeter, Steam and hotkeys from your phone over LAN. | Python · JS | [Download](https://github.com/Anilyldrmm/SpAC3Deck/releases/latest) |
+| **Kick Verification Bot** | Makes Discord members verify their Kick account through OAuth2. One-to-one account linking, automatic nicknames and roles, bans, reminders and a web admin dashboard. | TypeScript · Docker | Private |
 
 ### Also
 
-- **Kick Verification Bot**: makes Discord members verify their Kick account through OAuth2, with automatic roles and a web admin dashboard. *Private*
 - **LoL Coach**: reads your live League of Legends match through the Riot API and suggests items and runes. Discord bot and web UI. *Private*
 - **instaunfollower**: Discord bot that DMs you when someone unfollows you on Instagram. *Private*
 - **Nightwatch**: Windows app that watches Twitch drop campaigns and claims the rewards for you. *Private*
